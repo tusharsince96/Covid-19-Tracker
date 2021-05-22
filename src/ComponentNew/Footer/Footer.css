@@ -1,0 +1,19 @@
+.FooterItems {
+  background: linear-gradient(
+    90deg,
+    rgb(110, 94, 254) 0%,
+    rgb(53, 45, 216) 100%
+  );
+
+  overflow: hidden;
+
+  width: 100%;
+
+  padding: 24px 16px;
+  
+  font-size: 0.8rem;
+}
+.col-sm {
+  color: #fff;
+  text-align: center;
+}
